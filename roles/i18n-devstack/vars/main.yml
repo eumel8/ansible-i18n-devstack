@@ -1,4 +1,4 @@
-branch: master
+branch: stable/liberty
 #branch: stable/juno
 enable_cron: yes
 
